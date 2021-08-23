@@ -10,8 +10,8 @@ A calendar application run on a browser that will be dynamically updated by HTML
 
 ## Acceptance Criteria
 
->GIVEN I am using a daily planner to create a schedule
->WHEN I open the planner
+> GIVEN I am using a daily planner to create a schedule
+> WHEN I open the planner
 >THEN the current day is displayed at the top of the calendar
 >WHEN I scroll down
 >THEN I am presented with timeblocks for standard business hours
@@ -26,7 +26,7 @@ A calendar application run on a browser that will be dynamically updated by HTML
 
 ## Mock-up
 
-[The application is an active work hour calendar.](.\assets\images\worksched.JPG)
+![An active work hour calendar.](.\assets\images\worksched.JPG)
 
 ## Installation
 
