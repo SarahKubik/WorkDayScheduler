@@ -10,7 +10,7 @@ A calendar application run on a browser that will be dynamically updated by HTML
 
 ## Mock-up
 
-<!-- ![The application has a brown button labeled Generate Password](./assets/images/pwgeneratormockup.jpg) -->
+[The application is a work hour calendar.](./assets/images/worksched.jpg)
 
 ## Installation
 
