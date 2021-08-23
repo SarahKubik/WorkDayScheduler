@@ -26,7 +26,7 @@ THEN the saved events persist
 
 ## Mock-up
 
-[The application is a work hour calendar.](./assets/images/worksched.jpg)
+[The application is a work hour calendar.](.\assets\images\worksched.jpg)
 
 ## Installation
 
