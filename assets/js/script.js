@@ -1,3 +1,8 @@
+
+// Cannot store locally
+// Not changing color 
+// define forEach error
+
 // variable to store and loop through scheduler
 var myDay = document.getElementById('.container'); 
 
