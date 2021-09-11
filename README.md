@@ -14,7 +14,7 @@ An active locally saved calendar. Depending on the time of the day, it will upda
 
 ## Mock-up
 
-![An active work hour calendar.](.\assets\images\worksched.JPG)
+![An active work hour calendar.](./assets/images/worksched.JPG)
 
 ## Installation
 
